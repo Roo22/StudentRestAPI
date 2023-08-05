@@ -1,5 +1,6 @@
-# StudentRestAPI
-install these packeges:
+#StudentRestAPI
+An Asp.net Core API MVC.
+Required Packages:
 Microsoft.AspNetCore.OpenApi
 Microsoft.EntityFrameworkCore
 Microsoft.EntityFrameworkCore.Design
