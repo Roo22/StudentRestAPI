@@ -1,0 +1,8 @@
+# StudentRestAPI
+install these packeges:
+Microsoft.AspNetCore.OpenApi
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+Swashbuckle.AspNetCore
